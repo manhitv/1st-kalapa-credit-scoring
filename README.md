@@ -7,4 +7,4 @@ Summary of the model building process can be traced in the image below.
 ![Result](modeling_summary.PNG)
 
 
-Details about the contest can be viewed at [https:// challenge.kalapa.vn](https://challenge.kalapa.vn).
+Details about the contest can be viewed at [https://challenge.kalapa.vn](https://challenge.kalapa.vn).
